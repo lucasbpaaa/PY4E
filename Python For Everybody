@@ -1,0 +1,6 @@
+#Use o  o newline \n para trocar de linha:
+>>>print("Hello \nWorld)
+    Hello
+    World
+
+#
